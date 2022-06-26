@@ -1,0 +1,12 @@
+{
+  "hello": "你好",
+  "welcome to": "欢迎来到",
+  "ide setup": "建议将你的IDE设置",
+  "home": "主页",
+  "see": "查看",
+  "change theme": "主题切换",
+  "change lang": "语言切换",
+  "edit": "编辑",
+  "more information": "了解更多信息",
+  "hot test": "测试热更新模块"
+}

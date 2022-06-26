@@ -1,0 +1,12 @@
+{
+  "hello": "Hello",
+  "welcome to": "Welcome to",
+  "ide setup": "Recommended IDE setup",
+  "home": "Home",
+  "see": "See",
+  "change theme": "Switch Theme",
+  "change lang": "Switch Language",
+  "edit": "Edit",
+  "more information": "for more information",
+  "hot test": "to test hot module replacement"
+}
