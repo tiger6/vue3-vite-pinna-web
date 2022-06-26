@@ -2,7 +2,7 @@
 
 > 开箱即用的vue3 web脚手架
 
-<img width="800" src="/public/img/screenshot.png">
+![screenshot](./public/img/screenshot.png)
 
 - [x] Vue3
 - [x] Vite
@@ -11,7 +11,7 @@
 - [x] VueRouter
 - [x] ElementPlus
 - [x] I18n
-- [x] theme
+- [x] Theme
 
 ## Project setup
 
@@ -40,13 +40,13 @@ npm run build or yarn build or pnpm run build
 ## Usage
 
 ```bash
-git clone https://github.com/tiger6/vue3-vite-pinna-web.git
-cd vue3-vite-pinna-web
+git clone https://github.com/tiger6/vue3-vite-pinia-web.git
+cd vue3-vite-pinia-web
 npm i
 npm run dev
 ```
 
 ### Custom theme
 
-See `src//assets/styles/element/index.scss`.
+See `src/assets/styles/element/index.scss`.
 
