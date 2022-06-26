@@ -2,7 +2,7 @@
 
 > 开箱即用的vue3 web脚手架
 
-<img width="800" src="./public/img/screenshot.png">
+<img width="800" src="/public/img/screenshot.png">
 
 - [x] Vue3
 - [x] Vite
